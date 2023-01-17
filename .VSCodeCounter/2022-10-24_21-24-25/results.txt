@@ -1,0 +1,205 @@
+Date : 2022-10-24 21:24:25
+Directory : c:\Users\gasan\.vscode\flutter projects\database_trial
+Total : 108 files,  5904 codes, 795 comments, 606 blanks, all 7305 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Dart       |         45 |      4,362 |        539 |        328 |      5,229 |
+| XML        |         29 |        551 |         49 |         33 |        633 |
+| C++        |         16 |        506 |        107 |        170 |        783 |
+| JSON       |          4 |        248 |          0 |          4 |        252 |
+| Gradle     |          3 |         89 |          5 |         22 |        116 |
+| Swift      |          4 |         46 |          3 |         12 |         61 |
+| YAML       |          2 |         44 |         76 |         20 |        140 |
+| HTML       |          1 |         37 |         16 |          6 |         59 |
+| Markdown   |          2 |         13 |          0 |          9 |         22 |
+| Properties |          2 |          8 |          0 |          2 |         10 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                 | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                    |        108 |      5,904 |        795 |        606 |      7,305 |
+| android                                                                                                              |         12 |        162 |         52 |         35 |        249 |
+| android\app                                                                                                          |          8 |        119 |         52 |         24 |        195 |
+| android\app\src                                                                                                      |          7 |         65 |         47 |         11 |        123 |
+| android\app\src\debug                                                                                                |          1 |          4 |          5 |          2 |         11 |
+| android\app\src\main                                                                                                 |          5 |         57 |         38 |          8 |        103 |
+| android\app\src\main\res                                                                                             |          4 |         26 |         32 |          6 |         64 |
+| android\app\src\main\res\drawable                                                                                    |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\drawable-v21                                                                                |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\values                                                                                      |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\main\res\values-night                                                                                |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\profile                                                                                              |          1 |          4 |          4 |          1 |          9 |
+| android\gradle                                                                                                       |          1 |          5 |          0 |          1 |          6 |
+| android\gradle\wrapper                                                                                               |          1 |          5 |          0 |          1 |          6 |
+| assets                                                                                                               |         19 |         82 |          0 |         19 |        101 |
+| assets\images                                                                                                        |         19 |         82 |          0 |         19 |        101 |
+| ios                                                                                                                  |          7 |        222 |          2 |          9 |        233 |
+| ios\Runner                                                                                                           |          7 |        222 |          2 |          9 |        233 |
+| ios\Runner\Assets.xcassets                                                                                           |          3 |        148 |          0 |          4 |        152 |
+| ios\Runner\Assets.xcassets\AppIcon.appiconset                                                                        |          1 |        122 |          0 |          1 |        123 |
+| ios\Runner\Assets.xcassets\LaunchImage.imageset                                                                      |          2 |         26 |          0 |          3 |         29 |
+| ios\Runner\Base.lproj                                                                                                |          2 |         61 |          2 |          2 |         65 |
+| lib                                                                                                                  |         44 |      4,348 |        529 |        321 |      5,198 |
+| lib\data                                                                                                             |          2 |        324 |         68 |         28 |        420 |
+| lib\data\evler_data                                                                                                  |          1 |         63 |         18 |         11 |         92 |
+| lib\data\qovluqlar_data                                                                                              |          1 |        261 |         50 |         17 |        328 |
+| lib\domain                                                                                                           |         13 |        550 |         63 |         90 |        703 |
+| lib\domain\api_clients                                                                                               |          3 |        316 |         43 |         39 |        398 |
+| lib\domain\entitites                                                                                                 |         10 |        234 |         20 |         51 |        305 |
+| lib\domain\entitites\details                                                                                         |          2 |        105 |          4 |         10 |        119 |
+| lib\domain\entitites\getter                                                                                          |          2 |         54 |          4 |         10 |         68 |
+| lib\domain\entitites\image_getter                                                                                    |          2 |         18 |          4 |         10 |         32 |
+| lib\domain\entitites\object                                                                                          |          2 |         25 |          4 |         11 |         40 |
+| lib\domain\entitites\qovluqlar                                                                                       |          2 |         32 |          4 |         10 |         46 |
+| lib\google_maps                                                                                                      |          2 |         22 |          0 |          6 |         28 |
+| lib\ui                                                                                                               |         26 |      3,387 |        388 |        190 |      3,965 |
+| lib\ui\axtaris                                                                                                       |          6 |        760 |         58 |         27 |        845 |
+| lib\ui\axtaris\button_entity                                                                                         |          4 |        203 |         10 |         18 |        231 |
+| lib\ui\bottomNavigationBar                                                                                           |          2 |        401 |         99 |         26 |        526 |
+| lib\ui\deatils_screens                                                                                               |          2 |        581 |         21 |         29 |        631 |
+| lib\ui\deatils_screens\details_images                                                                                |          1 |         71 |         10 |          4 |         85 |
+| lib\ui\evler                                                                                                         |          4 |        321 |         47 |         22 |        390 |
+| lib\ui\evler\appbar                                                                                                  |          1 |         72 |          1 |          4 |         77 |
+| lib\ui\evler\elanlarList                                                                                             |          1 |        191 |         39 |         12 |        242 |
+| lib\ui\evler\son elanar                                                                                              |          1 |         33 |          0 |          3 |         36 |
+| lib\ui\navigation                                                                                                    |          1 |         10 |          1 |          3 |         14 |
+| lib\ui\profile                                                                                                       |          4 |        565 |         24 |         19 |        608 |
+| lib\ui\profile\daxil_ol                                                                                              |          3 |        491 |         23 |         15 |        529 |
+| lib\ui\profile\reegister                                                                                             |          1 |         74 |          1 |          4 |         79 |
+| lib\ui\secilmisler                                                                                                   |          5 |        683 |         98 |         38 |        819 |
+| lib\ui\secilmisler\papkalar                                                                                          |          1 |        285 |         54 |         14 |        353 |
+| lib\ui\secure_storage                                                                                                |          2 |         66 |         40 |         26 |        132 |
+| linux                                                                                                                |          5 |         98 |         27 |         38 |        163 |
+| linux\flutter                                                                                                        |          2 |         12 |          9 |         11 |         32 |
+| macos                                                                                                                |          5 |        445 |          3 |         12 |        460 |
+| macos\Flutter                                                                                                        |          1 |         14 |          3 |          4 |         21 |
+| macos\Runner                                                                                                         |          4 |        431 |          0 |          8 |        439 |
+| macos\Runner\Assets.xcassets                                                                                         |          1 |         68 |          0 |          1 |         69 |
+| macos\Runner\Assets.xcassets\AppIcon.appiconset                                                                      |          1 |         68 |          0 |          1 |         69 |
+| macos\Runner\Base.lproj                                                                                              |          1 |        343 |          0 |          1 |        344 |
+| test                                                                                                                 |          1 |         14 |         10 |          7 |         31 |
+| web                                                                                                                  |          2 |         72 |         16 |          7 |         95 |
+| windows                                                                                                              |         10 |        407 |         80 |        131 |        618 |
+| windows\flutter                                                                                                      |          2 |         11 |          9 |         11 |         31 |
+| windows\runner                                                                                                       |          8 |        396 |         71 |        120 |        587 |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                             | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\gasan\.vscode\flutter projects\database_trial\README.md                                                     | Markdown   |         10 |          0 |          7 |         17 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\analysis_options.yaml                                         | YAML       |          3 |         23 |          4 |         30 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\android\app\build.gradle                                      | Gradle     |         54 |          5 |         13 |         72 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\android\app\src\debug\AndroidManifest.xml                     | XML        |          4 |          5 |          2 |         11 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\android\app\src\main\AndroidManifest.xml                      | XML        |         31 |          6 |          2 |         39 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\android\app\src\main\res\drawable-v21\launch_background.xml   | XML        |          4 |          7 |          2 |         13 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\android\app\src\main\res\drawable\launch_background.xml       | XML        |          4 |          7 |          2 |         13 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\android\app\src\main\res\values-night\styles.xml              | XML        |          9 |          9 |          1 |         19 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\android\app\src\main\res\values\styles.xml                    | XML        |          9 |          9 |          1 |         19 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\android\app\src\profile\AndroidManifest.xml                   | XML        |          4 |          4 |          1 |          9 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\android\build.gradle                                          | Gradle     |         27 |          0 |          5 |         32 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\android\gradle.properties                                     | Properties |          3 |          0 |          1 |          4 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\android\gradle\wrapper\gradle-wrapper.properties              | Properties |          5 |          0 |          1 |          6 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\android\settings.gradle                                       | Gradle     |          8 |          0 |          4 |         12 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\CaretCircleRight.svg                            | XML        |          4 |          0 |          1 |          5 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\CaretDown.svg                                   | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\CaretRight.svg                                  | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\Folders.svg                                     | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\FoldersModalBottom.svg                          | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\Gear.svg                                        | XML        |          4 |          0 |          1 |          5 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\HeartStraight.svg                               | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\HeartStraightLogin.svg                          | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\HeartStraightRed.svg                            | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\House.svg                                       | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\House1.svg                                      | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\MapTrifold.svg                                  | XML        |          5 |          0 |          1 |          6 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\Profile.svg                                     | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\Union.svg                                       | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\UserCircle.svg                                  | XML        |         10 |          0 |          1 |         11 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\bell_svg.svg                                    | XML        |          7 |          0 |          1 |          8 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\heartIcon.svg                                   | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\papkalar.svg                                    | XML        |          7 |          0 |          1 |          8 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\assets\images\papkalar2.svg                                   | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\ios\Runner\AppDelegate.swift                                  | Swift      |         12 |          0 |          2 |         14 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json   | JSON       |        122 |          0 |          1 |        123 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json | JSON       |         23 |          0 |          1 |         24 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md     | Markdown   |          3 |          0 |          2 |          5 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\ios\Runner\Base.lproj\LaunchScreen.storyboard                 | XML        |         36 |          1 |          1 |         38 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\ios\Runner\Base.lproj\Main.storyboard                         | XML        |         25 |          1 |          1 |         27 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\ios\Runner\Runner-Bridging-Header.h                           | C++        |          1 |          0 |          1 |          2 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\data\evler_data\evler_data.dart                           | Dart       |         63 |         18 |         11 |         92 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\data\qovluqlar_data\qovluqlar_data.dart                   | Dart       |        261 |         50 |         17 |        328 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\api_clients\api_client.dart                        | Dart       |         58 |          1 |         13 |         72 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\api_clients\api_verif_client.dart                  | Dart       |        135 |         19 |         11 |        165 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\api_clients\qovluqlar_api_client.dart              | Dart       |        123 |         23 |         15 |        161 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\entitites\details\detailsWidget.dart               | Dart       |         64 |          0 |          5 |         69 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\entitites\details\detailsWidget.g.dart             | Dart       |         41 |          4 |          5 |         50 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\entitites\getter\get.dart                          | Dart       |         33 |          0 |          5 |         38 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\entitites\getter\get.g.dart                        | Dart       |         21 |          4 |          5 |         30 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\entitites\image_getter\getImages.dart              | Dart       |         10 |          0 |          5 |         15 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\entitites\image_getter\getImages.g.dart            | Dart       |          8 |          4 |          5 |         17 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\entitites\object\object.dart                       | Dart       |         12 |          0 |          6 |         18 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\entitites\object\object.g.dart                     | Dart       |         13 |          4 |          5 |         22 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\entitites\qovluqlar\qovluqlar.dart                 | Dart       |         19 |          0 |          5 |         24 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\entitites\qovluqlar\qovluqlar.g.dart               | Dart       |         13 |          4 |          5 |         22 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\google_maps\constants.dart                                | Dart       |          1 |          0 |          1 |          2 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\google_maps\google_maps_page.dart                         | Dart       |         21 |          0 |          5 |         26 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\main.dart                                                 | Dart       |         65 |         10 |          7 |         82 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\axtaris_birlesme.dart                          | Dart       |        134 |          5 |          4 |        143 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\axtaris_list_widget.dart                       | Dart       |        423 |         43 |          5 |        471 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\button_entity\checkbox_entity.dart             | Dart       |         53 |          2 |          5 |         60 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\button_entity\filter_button_entity.dart        | Dart       |         54 |          3 |          4 |         61 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\button_entity\range_slider_entity.dart         | Dart       |         44 |          3 |          4 |         51 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\button_entity\swicth_cupertino.dart            | Dart       |         52 |          2 |          5 |         59 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\bottomNavigationBar\bottom_navigation_bar.dart         | Dart       |         79 |         85 |          7 |        171 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\bottomNavigationBar\cupertino_tab_scaffold.dart        | Dart       |        322 |         14 |         19 |        355 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\deatils_screens\details_images\details_images.dart     | Dart       |         71 |         10 |          4 |         85 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\deatils_screens\details_screen.dart                    | Dart       |        510 |         11 |         25 |        546 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\evler\appbar\son_elanlar.dart                          | Dart       |         72 |          1 |          4 |         77 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\evler\elanlarList\elanlar_list.dart                    | Dart       |        191 |         39 |         12 |        242 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\evler\evler.dart                                       | Dart       |         25 |          7 |          3 |         35 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\evler\son elanar\neticeler-widget.dart                 | Dart       |         33 |          0 |          3 |         36 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\navigation\navigation.dart                             | Dart       |         10 |          1 |          3 |         14 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\profile\daxil_ol\code_screen.dart                      | Dart       |        124 |         12 |          4 |        140 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\profile\daxil_ol\daxil_ol.dart                         | Dart       |        102 |          8 |          5 |        115 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\profile\daxil_ol\hesab_screen.dart                     | Dart       |        265 |          3 |          6 |        274 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\profile\reegister\registration_page.dart               | Dart       |         74 |          1 |          4 |         79 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\secilmisler\appBarSecilmisler.dart                     | Dart       |         52 |          1 |          4 |         57 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\secilmisler\papkalar.dart                              | Dart       |         79 |          1 |          5 |         85 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\secilmisler\papkalar\papkalar_single.dart              | Dart       |        285 |         54 |         14 |        353 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\secilmisler\secilmis_elanlar.dart                      | Dart       |        157 |         41 |         11 |        209 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\secilmisler\secilmisler_birlesme.dart                  | Dart       |        110 |          1 |          4 |        115 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\secure_storage\qovluqlar_secure_storage.dart           | Dart       |          2 |         14 |          5 |         21 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\secure_storage\secure_storage.dart                     | Dart       |         64 |         26 |         21 |        111 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\linux\flutter\generated_plugin_registrant.cc                  | C++        |          7 |          4 |          5 |         16 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\linux\flutter\generated_plugin_registrant.h                   | C++        |          5 |          5 |          6 |         16 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\linux\main.cc                                                 | C++        |          5 |          0 |          2 |          7 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\linux\my_application.cc                                       | C++        |         74 |         11 |         20 |        105 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\linux\my_application.h                                        | C++        |          7 |          7 |          5 |         19 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\macos\Flutter\GeneratedPluginRegistrant.swift                 | Swift      |         14 |          3 |          4 |         21 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\macos\Runner\AppDelegate.swift                                | Swift      |          8 |          0 |          2 |         10 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\macos\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json | JSON       |         68 |          0 |          1 |         69 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\macos\Runner\Base.lproj\MainMenu.xib                          | XML        |        343 |          0 |          1 |        344 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\macos\Runner\MainFlutterWindow.swift                          | Swift      |         12 |          0 |          4 |         16 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\pubspec.yaml                                                  | YAML       |         41 |         53 |         16 |        110 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\test\widget_test.dart                                         | Dart       |         14 |         10 |          7 |         31 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\web\index.html                                                | HTML       |         37 |         16 |          6 |         59 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\web\manifest.json                                             | JSON       |         35 |          0 |          1 |         36 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\windows\flutter\generated_plugin_registrant.cc                | C++        |          6 |          4 |          5 |         15 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\windows\flutter\generated_plugin_registrant.h                 | C++        |          5 |          5 |          6 |         16 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\windows\runner\flutter_window.cpp                             | C++        |         45 |          4 |         13 |         62 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\windows\runner\flutter_window.h                               | C++        |         20 |          5 |          9 |         34 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\windows\runner\main.cpp                                       | C++        |         30 |          4 |         10 |         44 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\windows\runner\resource.h                                     | C++        |          9 |          6 |          2 |         17 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\windows\runner\utils.cpp                                      | C++        |         53 |          2 |         10 |         65 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\windows\runner\utils.h                                        | C++        |          8 |          6 |          6 |         20 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\windows\runner\win32_window.cpp                               | C++        |        183 |         15 |         48 |        246 |
+| c:\Users\gasan\.vscode\flutter projects\database_trial\windows\runner\win32_window.h                                 | C++        |         48 |         29 |         22 |         99 |
+| Total                                                                                                                |            |      5,904 |        795 |        606 |      7,305 |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
