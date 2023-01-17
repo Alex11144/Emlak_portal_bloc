@@ -1,0 +1,26 @@
+"filename", "language", "YAML", "Dart", "comment", "blank", "total"
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\bloc\bloc\search_reqest_bloc.dart", "Dart", 0, 21, 7, 8, 36
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\bloc\bloc\search_reqest_event.dart", "Dart", 0, 4, 0, 3, 7
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\bloc\bloc\search_reqest_state.dart", "Dart", 0, 6, 1, 5, 12
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\bloc\cubit\search_count_cubit.dart", "Dart", 0, 13, 1, 6, 20
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\bloc\cubit\search_count_state.dart", "Dart", 0, 8, 2, 3, 13
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\data\evler_data\evler_data.dart", "Dart", 0, 1, 1, 0, 2
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\api_clients\api_client.dart", "Dart", 0, 7, 0, 1, 8
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\api_clients\api_verif_client.dart", "Dart", 0, -1, -1, 0, -2
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\api_clients\filter_api\filter_api_client.dart", "Dart", 0, 0, 0, 1, 1
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\entitites\announces_entity\announces_entity.dart", "Dart", 0, 14, 0, 5, 19
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\domain\entitites\announces_entity\announces_entity.g.dart", "Dart", 0, 11, 4, 5, 20
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\main.dart", "Dart", 0, 6, 8, 0, 14
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\axtaris_birlesme.dart", "Dart", 0, 16, 1, 2, 19
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\button_entity\checkbox_entity.dart", "Dart", 0, 4, 0, 0, 4
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\button_entity\chip_choices.dart", "Dart", 0, 4, 0, 0, 4
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\button_entity\cixaris_switch_entity.dart", "Dart", 0, 4, 0, 0, 4
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\button_entity\current_floor_entity.dart", "Dart", 0, 4, 0, 0, 4
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\button_entity\floor_count.dart", "Dart", 0, 4, 0, 0, 4
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\button_entity\kredit_switch_entity.dart", "Dart", 0, 4, 0, 0, 4
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\button_entity\range_slider_entity.dart", "Dart", 0, 4, 0, 0, 4
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\button_entity\room_count_entity.dart", "Dart", 0, 5, 6, 1, 12
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\axtaris\button_entity\sahe_range_slider.dart", "Dart", 0, 4, 0, 0, 4
+"c:\Users\gasan\.vscode\flutter projects\database_trial\lib\ui\deatils_screens\details_screen.dart", "Dart", 0, 2, 4, 0, 6
+"c:\Users\gasan\.vscode\flutter projects\database_trial\pubspec.yaml", "YAML", 2, 0, 0, 0, 2
+"Total", "-", 2, 145, 34, 40, 221
