@@ -63,6 +63,7 @@ class _RoomCountEntityWidgetState extends State<RoomCountEntityWidget> {
             onPressed: () {
               // isloading = false;
               widget.isSelected = !widget.isSelected;
+              setState(() {});
 
               // isloading = false;
 
@@ -90,7 +91,6 @@ class _RoomCountEntityWidgetState extends State<RoomCountEntityWidget> {
               //     .whenComplete(() => isloading = true);
               BlocProvider.of<SearchRequestBloc>(context, listen: false)
                   .add(OntapEvent());
-              setState(() {});
 
               // tapped1 = false;
             },

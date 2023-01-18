@@ -2,7 +2,12 @@
 part of 'search_reqest_bloc.dart';
 
 @immutable
-abstract class SearchRequestState {}
+class SearchRequestState {
+  // int? count = 10;
+  // SearchRequestState({
+  //   this.count,
+  // });
+}
 
 class SearchReqestInitial extends SearchRequestState {}
 

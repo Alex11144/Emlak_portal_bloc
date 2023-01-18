@@ -18,12 +18,10 @@ class SearchRequestBloc extends Bloc<SearchRequestEvent, SearchRequestState> {
       if (event is SearchRequestEvent) {
         // final posts = await FilterApiClient().getMertebeSatilirCount();
 
-        // await getSatilirMertebeCount();
-
         emit(SearchReqestInProgress());
+        // emit(SearchRequestState(count: posts));
 
         await Future.delayed(Duration(seconds: 3));
-        // emit(SearchRequestState(count: state.count = posts));
         emit(SearchReqestSuccess());
       }
     }, transformer: restartable());
